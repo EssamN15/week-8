@@ -1,8 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# #  Web scraping a Rotten Tomatoes page
-
+# #  Essam
 # ## Import the relevant libraries
 
 # This exercise is going to use web scraping techniques to extract data and store in a data frame using Pandas. The data that will needed to be included in the data frame will be as follows:
